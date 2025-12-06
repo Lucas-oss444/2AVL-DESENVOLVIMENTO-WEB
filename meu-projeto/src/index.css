@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0f172a;
+    color: white;
+  }
+  
+  a {
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+  }
+  
+  .container {
+    padding: 20px;
+  }
+  
