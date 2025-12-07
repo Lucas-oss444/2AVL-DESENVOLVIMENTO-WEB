@@ -1,9 +1,9 @@
 # FutSystem ⚽
 
 ## Descrição
-O **FutSystem** é um sistema web desenvolvido em **React** no formato **SPA (Single Page Application)**, com o objetivo de apresentar informações sobre clubes de futebol. O projeto foi criado como atividade acadêmica para demonstrar o uso de componentes, rotas, props, CSS Modules e organização de pastas em React.
+O **FutSystem** é um sistema web desenvolvido em **React** no formato SPA (Single Page Application), com o objetivo de apresentar informações sobre clubes de futebol. O projeto foi criado como atividade acadêmica para demonstrar o uso de componentes, rotas, props, CSS Modules e organização de pastas em React.
 
-O tema do sistema é **futebol**, exibindo páginas com informações sobre times, sobre o esporte e um formulário de contato.
+O tema do sistema é futebol, exibindo páginas com informações sobre times, sobre o esporte e um formulário de contato.
 
 ---
 
